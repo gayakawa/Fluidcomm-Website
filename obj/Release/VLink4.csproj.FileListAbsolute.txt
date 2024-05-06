@@ -1,0 +1,6 @@
+C:\Source\VLink\VLink4\obj\Release\VLink4.csprojResolveAssemblyReference.cache
+C:\Source\VLink\VLink4\bin\VLink.dll.config
+C:\Source\VLink\VLink4\bin\VLink.dll
+C:\Source\VLink\VLink4\bin\VLink.pdb
+C:\Source\VLink\VLink4\obj\Release\VLink.dll
+C:\Source\VLink\VLink4\obj\Release\VLink.pdb
